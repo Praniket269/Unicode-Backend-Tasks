@@ -2,7 +2,7 @@
 
 #Task 1
 
-There are n (input by user) distinct words. 
+There are n (input by user) words. 
 First, the user is asked to enter the total number of words they wish to enter.
 Then the user is asked to enter whichever words they want, same or distinct, 'n' number of times.
 for loop is used to repeat the process 'n' number of times.
